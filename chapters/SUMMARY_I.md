@@ -40,7 +40,7 @@ ds^2 = &-e^{2\Phi(r)}\Big[1+2h_0(r)+2h_2(r)P_2(\cos\theta)\Big]dt^2 \\
 ```
 Fluid perturbations:
 ```math
-P(r,\theta)=P_0(r)+(E_0+P_0)\big[p_0^*(r)+p_2^\*(r)P_2(\cos\theta)\big], \quad \text{etc.}
+P(r,\theta)=P_0(r)+(E_0+P_0)\big[p_0^*(r)+p_2^*(r)P_2(\cos\theta)\big], \quad \text{etc.}
 ```
 
 ## First order: frame dragging
@@ -58,11 +58,11 @@ Outside:
 ```
 
 ## Second order: $\ell=0$ (spherical) and $\ell=2$ (quadrupole) sectors
-Spherical ($m_0,\,p_0^\*$) encode the **mass increment** and uniform pressure shift; quadrupolar ($h_2,k_2,p_2^\*$) encode the **oblateness** and **mass quadrupole** $Q$. Typical $\ell=0$ structure:
+Spherical ($m_0,\,p_0^*$) encode the **mass increment** and uniform pressure shift; quadrupolar ($h_2,k_2,p_2^*$) encode the **oblateness** and **mass quadrupole** $Q$. Typical $\ell=0$ structure:
 ```math
 \begin{aligned}
-\frac{dm_0}{dr}&=4\pi r^2 \frac{dE}{dP}(E+P)\,p_0^\*(r)+\frac{1}{3}r^3\frac{d}{dr}\Big[r^2\bar\omega(r)^2\Big],\\
-\frac{dp_0^\*}{dr}&=-\Phi'(r)\frac{dE/dP}{E+P}\,p_0^\*(r)-\frac{1}{3}\frac{r^3}{r-2M}\,\bar\omega(r)^2.
+\frac{dm_0}{dr}&=4\pi r^2 \frac{dE}{dP}(E+P)\,p_0^*(r)+\frac{1}{3}r^3\frac{d}{dr}\Big[r^2\bar\omega(r)^2\Big],\\
+\frac{dp_0^*}{dr}&=-\Phi'(r)\frac{dE/dP}{E+P}\,p_0^*(r)-\frac{1}{3}\frac{r^3}{r-2M}\,\bar\omega(r)^2.
 \end{aligned}
 ```
 Mass correction:
