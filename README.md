@@ -5,7 +5,7 @@ This repository contains:
 - **A concise, self-contained introduction** to the Hartle–Thorne slow-rotation formalism (Papers I–VIII).
 - **A minimal Jupyter notebook** that integrates the Tolman–Oppenheimer–Volkoff (TOV) equations and the first-order frame-dragging equation for a toy gamma-law EOS, so you can reproduce the core quantities $$\(M\), \(R\), and \(I=J/\Omega\)$$ for a slowly rotating star.
 
-Jump to the notebook: **[tov_frame_dragging.ipynb](sandbox:/mnt/data/tov_frame_dragging.ipynb)**
+Jump to the notebook: **[tov_frame_dragging.ipynb](notebooks/tov_frame_dragging.ipynb)**
 
 ---
 
@@ -79,14 +79,14 @@ You can sweep parameters to build sequences \(M(P_c), I(M)\), etc.
 
 These are the specific PDFs you provided (organized as Papers I–VIII). Open them directly from here:
 
-- **Paper I** — Hartle (1967), *Slowly Rotating Relativistic Stars I. Equations of Structure* — [I.pdf](sandbox:/mnt/data/I.pdf)
-- **Paper II** — Hartle & Thorne (1968), *Models for Neutron Stars and Supermassive Stars* — [II.pdf](sandbox:/mnt/data/II.pdf)
-- **Paper III** — Hartle & Thorne (1969), *Static Criterion for Stability* — [III.pdf](sandbox:/mnt/data/III.pdf)
-- **Paper IIIA** — Hartle (1975), *The Static Stability Criterion Recovered* — [IIIA.pdf](sandbox:/mnt/data/IIIA.pdf)
-- **Paper IV** — Hartle (1970), *Rotational Energy and Moment of Inertia for Stars in Differential Rotation* — [IV.pdf](sandbox:/mnt/data/IV.pdf)
-- **Paper V** — Hartle & Munn (1975), *Static Stability Analysis of n=3/2 Polytropes* — [V.pdf](sandbox:/mnt/data/V.pdf)
-- **Paper VI** — Hartle, Thorne & Chitre (1972), *Stability of the Quasi-Radial Modes* — [VI.pdf](sandbox:/mnt/data/VI.pdf)
-- **Paper VIII** — Hartle & Friedman (1975), *Frequencies of the Quasi-Radial Modes of an n=3/2 Polytrope* — [VIII.pdf](sandbox:/mnt/data/VIII.pdf)
+- **Paper I** — Hartle (1967), *Slowly Rotating Relativistic Stars I. Equations of Structure* — [I.md](chapters/I.md)
+- **Paper II** — Hartle & Thorne (1968), *Models for Neutron Stars and Supermassive Stars* — [II.md](chapters/II.md)
+- **Paper III** — Hartle & Thorne (1969), *Static Criterion for Stability* — [III.md](chapters/III.md)
+- **Paper IIIA** — Hartle (1975), *The Static Stability Criterion Recovered* — [IIIA.md](chapters/IIIA.md)
+- **Paper IV** — Hartle (1970), *Rotational Energy and Moment of Inertia for Stars in Differential Rotation* — [IV.md](chapters/IV.md)
+- **Paper V** — Hartle & Munn (1975), *Static Stability Analysis of n=3/2 Polytropes* — [V.md](chapters/V.md)
+- **Paper VI** — Hartle, Thorne & Chitre (1972), *Stability of the Quasi-Radial Modes* — [VI.md](chapters/VI.md)
+- **Paper VIII** — Hartle & Friedman (1975), *Frequencies of the Quasi-Radial Modes of an n=3/2 Polytrope* — [VIII.md](chapters/VIII.md)
 
 ---
 
