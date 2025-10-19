@@ -79,14 +79,14 @@ You can sweep parameters to build sequences \(M(P_c), I(M)\), etc.
 
 These are the specific PDFs you provided (organized as Papers I–VIII). Open them directly from here:
 
-- **Paper I** — Hartle (1967), *Slowly Rotating Relativistic Stars I. Equations of Structure* — [I.md](chapters/I.md)
-- **Paper II** — Hartle & Thorne (1968), *Models for Neutron Stars and Supermassive Stars* — [II.md](chapters/II.md)
-- **Paper III** — Hartle & Thorne (1969), *Static Criterion for Stability* — [III.md](chapters/III.md)
-- **Paper IIIA** — Hartle (1975), *The Static Stability Criterion Recovered* — [IIIA.md](chapters/IIIA.md)
-- **Paper IV** — Hartle (1970), *Rotational Energy and Moment of Inertia for Stars in Differential Rotation* — [IV.md](chapters/IV.md)
-- **Paper V** — Hartle & Munn (1975), *Static Stability Analysis of n=3/2 Polytropes* — [V.md](chapters/V.md)
-- **Paper VI** — Hartle, Thorne & Chitre (1972), *Stability of the Quasi-Radial Modes* — [VI.md](chapters/VI.md)
-- **Paper VIII** — Hartle & Friedman (1975), *Frequencies of the Quasi-Radial Modes of an n=3/2 Polytrope* — [VIII.md](chapters/VIII.md)
+- **Paper I** — Hartle (1967), *Slowly Rotating Relativistic Stars I. Equations of Structure* — [SUMMARY\_I.md]([chapters/SUMMARY\_I.md)
+- **Paper II** — Hartle & Thorne (1968), *Models for Neutron Stars and Supermassive Stars* — [SUMMARY\_II.md]([chapters/SUMMARY\_II.md)
+- **Paper III** — Hartle & Thorne (1969), *Static Criterion for Stability* — [SUMMARY\_III.md]([chapters/SUMMARY\_III.md)
+- **Paper IIIA** — Hartle (1975), *The Static Stability Criterion Recovered* — [SUMMARY\_IIIA.md]([chapters/SUMMARY\_IIIA.md)
+- **Paper IV** — Hartle (1970), *Rotational Energy and Moment of Inertia for Stars in Differential Rotation* — [SUMMARY\_IV.md]([chapters/SUMMARY\_IV.md)
+- **Paper V** — Hartle & Munn (1975), *Static Stability Analysis of n=3/2 Polytropes* — [SUMMARY\_V.md]([chapters/SUMMARY\_V.md)
+- **Paper VI** — Hartle, Thorne & Chitre (1972), *Stability of the Quasi-Radial Modes* — [SUMMARY\_VI.md]([chapters/SUMMARY\_VI.md)
+- **Paper VIII** — Hartle & Friedman (1975), *Frequencies of the Quasi-Radial Modes of an n=3/2 Polytrope* — [SUMMARY\_VIII.md]([chapters/SUMMARY\_VIII.md)
 
 ---
 
