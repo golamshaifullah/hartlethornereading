@@ -40,7 +40,7 @@ ds^2 = &-e^{2\Phi(r)}\Big[1+2h_0(r)+2h_2(r)P_2(\cos\theta)\Big]dt^2 \\
 ```
 Fluid perturbations:
 ```math
-P(r,\theta)=P_0(r)+(E_0+P_0)\big[p_0^\*(r)+p_2^\*(r)P_2(\cos\theta)\big], \quad \text{etc.}
+P(r,\theta)=P_0(r)+(E_0+P_0)\big[p_0^*(r)+p_2^\*(r)P_2(\cos\theta)\big], \quad \text{etc.}
 ```
 
 ## First order: frame dragging
