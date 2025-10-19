@@ -1,3 +1,4 @@
+- [ ] Cleanup math formatting for GFM
 
 # Slowly Rotating Relativistic Stars — Starter Pack
 
