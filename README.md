@@ -78,8 +78,6 @@ You can sweep parameters to build sequences $$M(P_c), I(M)$$, etc.
 
 ## 5) Minimal references (clickable)
 
-These are the specific PDFs you provided (organized as Papers I–VIII). Open them directly from here:
-
 - **Paper I** — Hartle (1967), *Slowly Rotating Relativistic Stars I. Equations of Structure* — [SUMMARY\_I.md](chapters/SUMMARY\_I.md)
 - **Paper II** — Hartle & Thorne (1968), *Models for Neutron Stars and Supermassive Stars* — [SUMMARY\_II.md](chapters/SUMMARY\_II.md)
 - **Paper III** — Hartle & Thorne (1969), *Static Criterion for Stability* — [SUMMARY\_III.md](chapters/SUMMARY\_III.md)
